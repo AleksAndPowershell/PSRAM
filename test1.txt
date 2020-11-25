@@ -1,0 +1,8 @@
+cd..
+cd..
+cd..
+echo THIS IS A TEST
+C: 
+cd\
+tree
+pause
